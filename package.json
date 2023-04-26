@@ -1,0 +1,11 @@
+{
+  "name": "pdf-readme-maker",
+  "version": "1.0.0",
+  "description": "readme generator that allows user to use templates and embed images & videos ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
